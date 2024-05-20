@@ -15,8 +15,7 @@
     hyprpaper
 
     wezterm
-    cool-retro-term
-
+    
     starship
     helix
 
